@@ -1,2 +1,2 @@
 # java-gym-master
-Repository for homework project.
+**Repository for homework project.**
