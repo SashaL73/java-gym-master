@@ -102,6 +102,7 @@ public class TimetableTest {
 
         Assertions.assertEquals(2, timetable.getCountByCoaches().size());
         Assertions.assertEquals(3, timetable.getCountByCoaches().get(coach));
+        Assertions.assertEquals(1, timetable.getCountByCoaches().get(coach2));
 
     }
 

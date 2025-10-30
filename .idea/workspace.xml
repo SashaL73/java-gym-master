@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="277eefd3-1d18-4dc8-a214-71a3d4a7c7b0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/yandex/practicum/gym/Timetable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/yandex/practicum/gym/Timetable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/ru/yandex/practicum/gym/TimetableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ru/yandex/practicum/gym/TimetableTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
