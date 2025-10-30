@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="277eefd3-1d18-4dc8-a214-71a3d4a7c7b0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/yandex/practicum/gym/Timetable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/yandex/practicum/gym/Timetable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/ru/yandex/practicum/gym/TimetableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ru/yandex/practicum/gym/TimetableTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SashaL73&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:SashaL73/java-gym-master.git&quot;,
+    &quot;accountId&quot;: &quot;bd751f30-7200-45df-bda1-69fed7cc0808&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="34n6Mt2FeIp2cR6nrINPWcvy6b3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.TimetableTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TimetableTest.testGetCountByCoaches.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TimetableTest.testGetTrainingSessionsForDayAndTime.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TimetableTest.testGetTrainingSessionsForDayMultipleSessions.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TimetableTest.testGetTrainingSessionsForDaySingleSession.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.TimetableTest.testGetCountByCoaches">
+    <configuration name="TimetableTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-gym-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.yandex.practicum.gym.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.yandex.practicum.gym" />
+      <option name="MAIN_CLASS_NAME" value="ru.yandex.practicum.gym.TimetableTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimetableTest.testGetCountByCoaches" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-gym-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.yandex.practicum.gym.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.yandex.practicum.gym" />
+      <option name="MAIN_CLASS_NAME" value="ru.yandex.practicum.gym.TimetableTest" />
+      <option name="METHOD_NAME" value="testGetCountByCoaches" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimetableTest.testGetTrainingSessionsForDayAndTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-gym-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.yandex.practicum.gym.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.yandex.practicum.gym" />
+      <option name="MAIN_CLASS_NAME" value="ru.yandex.practicum.gym.TimetableTest" />
+      <option name="METHOD_NAME" value="testGetTrainingSessionsForDayAndTime" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimetableTest.testGetTrainingSessionsForDayMultipleSessions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-gym-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.yandex.practicum.gym.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.yandex.practicum.gym" />
+      <option name="MAIN_CLASS_NAME" value="ru.yandex.practicum.gym.TimetableTest" />
+      <option name="METHOD_NAME" value="testGetTrainingSessionsForDayMultipleSessions" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimetableTest.testGetTrainingSessionsForDaySingleSession" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-gym-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.yandex.practicum.gym.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.yandex.practicum.gym" />
+      <option name="MAIN_CLASS_NAME" value="ru.yandex.practicum.gym.TimetableTest" />
+      <option name="METHOD_NAME" value="testGetTrainingSessionsForDaySingleSession" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TimetableTest.testGetCountByCoaches" />
+        <item itemvalue="JUnit.TimetableTest.testGetTrainingSessionsForDayAndTime" />
+        <item itemvalue="JUnit.TimetableTest.testGetTrainingSessionsForDayMultipleSessions" />
+        <item itemvalue="JUnit.TimetableTest.testGetTrainingSessionsForDaySingleSession" />
+        <item itemvalue="JUnit.TimetableTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="277eefd3-1d18-4dc8-a214-71a3d4a7c7b0" name="Changes" comment="" />
+      <created>1761836943829</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761836943829</updated>
+    </task>
+    <servers />
+  </component>
+</project>
