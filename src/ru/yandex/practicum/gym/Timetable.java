@@ -4,11 +4,12 @@ import java.util.*;
 
 public class Timetable {
 
+    private HashMap<DayOfWeek, TreeMap<TimeOfDay, List<TrainingSession>>> timetable = new HashMap<>();
+
     public HashMap<DayOfWeek, TreeMap<TimeOfDay, List<TrainingSession>>> getTimetable() {
         return timetable;
     }
 
-    private static HashMap<DayOfWeek, TreeMap<TimeOfDay, List<TrainingSession>>> timetable = new HashMap<>();
 
     public void addNewTrainingSession(TrainingSession trainingSession) {
         List<TrainingSession> trainingSessionList = new ArrayList<>();
@@ -42,7 +43,7 @@ public class Timetable {
         if (timetable.containsKey(dayOfWeek) && timetable.get(dayOfWeek).containsKey(timeOfDay)) {
             return timetable.get(dayOfWeek).get(timeOfDay);
         } else {
-            return null;
+            return new ArrayList<>();
         }
     }
 
